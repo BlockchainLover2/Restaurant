@@ -7,7 +7,7 @@ export let createElementsForHome = () => {
     img.src = image
     img.alt = "headline"
     let headerDiv = document.createElement("h2")
-    headerDiv.textContent = "CRAZZYYYYY BURGER"
+    headerDiv.textContent = "CRAZZYYYYY sdfsdfsfsfsdfBURGER"
     let smallDiv = document.createElement("div")
     smallDiv.textContent = "This is the best place in the city"
     mainDiv.appendChild(img)
